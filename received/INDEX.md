@@ -14,3 +14,4 @@
 | Date | From | Topic | Status |
 |---|---|---|---|
 | 2026-05-12 | Юлия Абдрафикова (@juliya_ai, GitHub: Juliay24) | Проект «ЦИФРА»: поэтапная архитектура образовательной системы + агентский слой | new |
+| 2026-05-12 | Aleks Andriienko (@aleks_andriienko, GitHub: digitaleks88) | Phygital Lab: поэтапная сборка AI-агентной редакции longform-портала (дедлайн 10 дней) | new |
