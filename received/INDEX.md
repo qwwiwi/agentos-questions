@@ -15,3 +15,4 @@
 |---|---|---|---|
 | 2026-05-12 | Юлия Абдрафикова (@juliya_ai, GitHub: Juliay24) | Проект «ЦИФРА»: поэтапная архитектура образовательной системы + агентский слой | new |
 | 2026-05-12 | Aleks Andriienko (@aleks_andriienko, GitHub: digitaleks88) | Phygital Lab: поэтапная сборка AI-агентной редакции longform-портала (дедлайн 10 дней) | new |
+| 2026-05-14 | Александр Фриман (@freemanlab, GitHub: FreemanAlexander) | PML-экосистема «Психология масштаба личности»: AgentOS-архитектура 5 ролевых агентов (Second Brain + PML + CRM + Content + Technical) под запуск «Ядра» 2026-06-01 | new |
